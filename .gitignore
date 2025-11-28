@@ -1,0 +1,84 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub/
+build/
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Android
+local.properties
+*.keystore
+android/app/google-services.json
+
+# iOS
+ios/Runner/GoogleService-Info.plist
+Pods/
+
+# Web
+web/generated/
+
+# MacOS
+macos/Flutter/ephemeral/
+macos/Pods/
+
+# Windows
+windows/Flutter/ephemeral/
+
+# Linux
+linux/Flutter/ephemeral/
+
+# Firebase
+firebase.json
+
+# Otros
+*.log
+*.lock
+*.tmp
+
+# Archivos binarios
+*.apk
+*.ipa
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Node
+node_modules/
+
+# Archivos de configuración sensibles
+.env
+.env.*
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db

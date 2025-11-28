@@ -1,0 +1,1 @@
+// Widget: Mensaje de error
